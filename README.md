@@ -1,3 +1,3 @@
-# schmitz
+# schmit
 
 #outro teste
