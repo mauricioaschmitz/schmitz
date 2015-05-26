@@ -1,7 +1,3 @@
-# schmi
+# schmitz
 
-#outro teste
-
-alterei no git mesmo
-
-troquei o texto
+#teste
